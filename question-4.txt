@@ -1,0 +1,11 @@
+Amazon Clone | ReactJS, TailwindCSS, Firebase, Amazon Product API (June 2024 - June 2024)
+
+Developed a fully functional Amazon clone that delivers a seamless and intuitive e-commerce experience. Leveraged ReactJS and TailwindCSS to create a user-friendly interface, enabling effortless product browsing, detailed views, and a streamlined checkout process. Implemented advanced search and filtering features for enhanced product discoverability. Integrated a real-time order management system with Firebase, ensuring transparency and customer trust throughout the purchase journey. The platform also includes dynamic user profiles.
+
+Key Features: Advanced product search and filtering functionality, Secure payment integration, Detailed product and order information pages.
+include this a as well
+
+
+Hosted Link: https://react-project-new-five.vercel.app/
+
+Github Link: https://github.com/ANIKET9411/React_Project_new
